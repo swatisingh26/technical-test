@@ -1,0 +1,7 @@
+C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestCore\bin\Debug\TechnicalTestCore.dll
+C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestCore\bin\Debug\TechnicalTestCore.pdb
+C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestCore\bin\Debug\TechnicalTestUtilities.dll
+C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestCore\bin\Debug\TechnicalTestUtilities.pdb
+C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestCore\obj\Debug\TechnicalTestCore.csprojResolveAssemblyReference.cache
+C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestCore\obj\Debug\TechnicalTestCore.dll
+C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestCore\obj\Debug\TechnicalTestCore.pdb
