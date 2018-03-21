@@ -1,5 +1,5 @@
 # technical-test
-A basic level technical test for applicants for QA positions
+A basic level technical test for applicants for a QA position
 
 ----------------------------------------------------------------------------------
 The technical test has one goal and one rule:
