@@ -65,24 +65,25 @@
         }
 
         [Fact]
-        public void SumOfSeriesOfNumbers()
+        public void SumOfSeriesOfConsecutiveNumbers()
         {
             // Adapt the relevant code in the 'TechnicalTestCore' project so that this unit test will pass
             // DO NOT change any code in this unit test or this project
-            var maxInt = new Random().Next(200, 400);
-            var observedSum = TechnicalTestCore.Summations.SumOfNumbersFrom1Till(maxInt);
-            var expectedSum = TestData.SumOf1To400Printout[maxInt - 1];
+            var maxNr = new Random().Next(200, 400);
+            var observedSum = TechnicalTestCore.Summations.SumOfNumbersFrom1TillNrAsInt(maxNr);
+            var expectedSum = TestData.SumOfNumbersFrom1TillMax400Printout[maxNr - 1];
             observedSum.Should().Be(expectedSum);
         }
 
         [Fact]
-        public void SumOfLargerSeriesOfNumbers()
+        public void SumOfLargerSeriesOfConsecutiveNumbers()
         {
             // Adapt the relevant code in the 'TechnicalTestCore' project so that this unit test will pass
             // DO NOT change any code in this unit test or this project
-            var maxInt = new Random().Next(70_000, 70_500);
-            var observedSum = TechnicalTestCore.Summations.SumOfIntegersFrom70KTill(maxInt);
-            var expectedSum = TestData.SumOf70kTo70k5Printout[maxInt - 70_000];
+            var maxNrAsInt = new Random().Next(70_000, 70_500);
+            var maxNrAsString = maxNrAsInt.ToString();
+            var observedSum = TechnicalTestCore.Summations.SumOfNumbersFrom1TillNrAsString(maxNrAsString);
+            var expectedSum = TestData.SumOfNumbersFrom1TillMin70kMax70k5Printout[maxNrAsInt - 70_000];
             observedSum.Should().Be(expectedSum);
         }
 

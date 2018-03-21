@@ -409,7 +409,7 @@
             "Fizz",
             "Buzz"
         };
-        public static readonly List<int> SumOf1To400Printout = new List<int>()
+        public static readonly List<int> SumOfNumbersFrom1TillMax400Printout = new List<int>()
         {
             1,
             3,
@@ -812,7 +812,7 @@
             79800,
             80200
         };
-        public static readonly List<string> SumOf70kTo70k5Printout = new List<string>()
+        public static readonly List<string> SumOfNumbersFrom1TillMin70kMax70k5Printout = new List<string>()
         {
             "2450035000",
             "2450105001",
