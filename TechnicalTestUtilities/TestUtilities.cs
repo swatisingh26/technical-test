@@ -17,26 +17,5 @@
             }
             return stringBuilder.ToString();
         }
-
-        public static List<int> generateListOfRandomNumbers(int min, int max, int listcount)
-        {
-            List<int> intlist = new List<int>();
-            Random rnd = new Random();
-            for (int i = 0; i < listcount; i++)
-            {
-                intlist.Add(rnd.Next(min, max));
-            }
-            return intlist;
-        }
-
-        public static int minimumElementIn(List<int> intlist)
-        {
-            int minimum = intlist[0];
-            foreach(int nr in intlist)
-            {
-                minimum = (nr < minimum) ? nr : minimum;
-            }
-            return minimum;
-        }
     }
 }
