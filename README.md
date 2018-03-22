@@ -14,10 +14,10 @@ THE RULE:
 HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
 1. Either clone using Git
 1.1 Install Git to your local system
-1.1 Go to https://github.com/dynamiccredit-qa/technical-test
-1.2 Click 'Fork'
-1.2 Click on the green-colored 'Clone or Download' button
-1.3 Use the provided .git URL to clone the repository to your local system with
+1.2 Go to https://github.com/dynamiccredit-qa/technical-test
+1.3 Click 'Fork'
+1.4 Click on the green-colored 'Clone or Download' button
+1.5 Use the provided .git URL to clone the repository to your local system with
     the installed Git client
 2. Or download
 2.1 Go to https://github.com/dynamiccredit-qa/technical-test
@@ -31,10 +31,10 @@ HOW TO GET STARTED WITH THE TECHNICAL TEST
 2. Open the TechnicalTest.sln file with Visual Studio
 3. Rightclick on the solution in the Solution Explorer and choose 'Restore Nuget
    Packages'
-3. Choose 'Build | Build solution'
-4. Open UnitTests.cs in the TechnicalTestUnitTests project
-5. Rightclick in the opened UnitTests.cs window and click 'Run Tests'
-6. If all went well this will make the unit tests run. The technical test consists
+4. Choose 'Build | Build solution'
+5. Open UnitTests.cs in the TechnicalTestUnitTests project
+6. Rightclick in the opened UnitTests.cs window and click 'Run Tests'
+7. If all went well this will make the unit tests run. The technical test consists
    of making these (failing) unit tests pass.
 
 ----------------------------------------------------------------------------------
