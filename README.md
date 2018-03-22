@@ -11,6 +11,14 @@ THE RULE:
 - Achieve the goal by ONLY modifying (the code in) the 'TechnicalTestCore' project
 ----------------------------------------------------------------------------------
 
+PLEASE BEAR IN MIND:
+- We are aware that the technical skill of QA professionals varies greatly. The test
+will be trivial for some and very hard for others. As such not being able to
+complete the entire test doesn't mean your application won't be considered. We'd
+just like to see how far you did get.
+
+----------------------------------------------------------------------------------
+
 HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
 1. Either clone using Git
 1.1 Install Git to your local system
@@ -49,11 +57,3 @@ There are two ways to hand in the exercise:
    office
 
 ----------------------------------------------------------------------------------
-
-P.S.
-If you have applied for a QA position and have been asked to do this test, please
-bear in mind:
-We are aware that the technical skill of QA professionals varies greatly. The test
-will be trivial for some and very hard for others. As such not being able to
-complete the entire test doesn't mean your application won't be considered. We'd
-just like to see how far you did get.
