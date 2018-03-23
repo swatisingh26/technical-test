@@ -13,7 +13,7 @@ THE RULE:
 
 PLEASE BEAR IN MIND:
 - We are aware that the technical skill of QA professionals varies greatly. The 
-test will be trivial for some and very hard for others. As such not being able to
+test will be trivial for some and hard for others. As such not being able to
 complete the entire test doesn't mean your application won't be considered. We'd
 just like to see how far you did get.
 
