@@ -12,20 +12,28 @@ THE RULE:
 ----------------------------------------------------------------------------------
 
 PLEASE BEAR IN MIND:
-- We are aware that the technical skill of QA professionals varies greatly. The test
-will be trivial for some and very hard for others. As such not being able to
+- We are aware that the technical skill of QA professionals varies greatly. The 
+test will be trivial for some and very hard for others. As such not being able to
 complete the entire test doesn't mean your application won't be considered. We'd
 just like to see how far you did get.
+
+----------------------------------------------------------------------------------
+
+TECHNICAL INFO:
+- Programming language: C#
+- Unit testing framework: xUnit
+- Non-standard C# library used: FluentAssertions
 
 ----------------------------------------------------------------------------------
 
 HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
 1. Either clone using Git
 1.1 Install Git to your local system
-1.2 Go to https://github.com/dynamiccredit-qa/technical-test
-1.3 Click 'Fork'
-1.4 Click on the green-colored 'Clone or Download' button
-1.5 Use the provided .git URL to clone the repository to your local system with
+1.2 Go to https://github.com and sign in (create an account if you don't have one)
+1.3 Go to https://github.com/dynamiccredit-qa/technical-test
+1.4 Click 'Fork'
+1.5 Click on the green-colored 'Clone or Download' button
+1.6 Use the provided .git URL to clone the repository to your local system with
     the installed Git client
 2. Or download
 2.1 Go to https://github.com/dynamiccredit-qa/technical-test
