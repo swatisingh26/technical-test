@@ -27,7 +27,7 @@ TECHNICAL INFO:
 ----------------------------------------------------------------------------------
 
 HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
-1. Either clone using Git
+1. Either clone using Git (preferred)
 1.1 Install Git to your local system
 1.2 Go to https://github.com and sign in (create an account if you don't have one)
 1.3 Go to https://github.com/dynamiccredit-qa/technical-test
@@ -57,10 +57,11 @@ HOW TO GET STARTED WITH THE TECHNICAL TEST
 
 HANDING IN THE TEST RESULTS:
 There are two ways to hand in the exercise:
-1. Either commit your solution to a branch on your GitHub Fork:
+1. Either commit your solution to a branch on your GitHub Fork (preferred):
 1.1 Commit your solution to the test to your local Git repository
 1.2 Push your commit upstream to your GitHub fork
-1.3 Send us a link to the branch of your GitHub fork containing your work
+1.3 Send an email with a link to the branch of your GitHub fork containing your 
+    work to your contact at the office
 2. Or make a .zip or .7z of your solution and email it to your contact at the 
    office
 
