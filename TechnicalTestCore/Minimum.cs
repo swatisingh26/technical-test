@@ -7,15 +7,22 @@
         public static int MinimumElementIn(List<int> intlist)
         {
             // Adapt the method body to make the corresponding unit test in 'TechnicalTestUnitTests' pass
-            int min = intlist[0];
-            for (int i = 1; i < intlist.Count; i++)
+            if (intlist.Count == 0)
             {
-                if (intlist[i] < min)
-                {
-                    min = intlist[i];
-                }
+                throw new System.ArgumentException("List is empty");
             }
-            return min;
+            else
+            {
+                int min = intlist[0];
+                for (int i = 1; i < intlist.Count; i++)
+                {
+                    if (intlist[i] < min)
+                    {
+                        min = intlist[i];
+                    }
+                }
+                return min;
+            }
         }
     }
 }
